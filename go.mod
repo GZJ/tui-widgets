@@ -1,4 +1,4 @@
-module tui-widgets
+module github.com/gzj/tui-widgets
 
 go 1.21.0
 
